@@ -67,14 +67,14 @@ __*Exemplo de negrito em itálico.*__
 - [x] Eu fiz isso.
 <br>
 
-( - ) -> Adiciona uma linha em baixo e deixa tudo que está sem quebra de linha maior (2x Enter) como título de nível 2\
+( - ) -> Adiciona uma linha em baixo e deixa tudo que está sem quebra de linha maior (2x Enter) como título de nível 2
 
 Exemplo: Ao adicionar ( - ) logo na linha abaixo
 Tudo o que está em cima se tornará um título de nível 2
 -
 <br>
 
-( = ) -> Adiciona uma linha em baixo e deixa tudo que está sem quebra de linha maior (2x Enter) como título de nível 1\
+( = ) -> Adiciona uma linha em baixo e deixa tudo que está sem quebra de linha maior (2x Enter) como título de nível 1
 
 Exemplo: Ao adicionar ( = ) logo na linha abaixo
 Tudo o que está em cima se tornará um título de nível 1
